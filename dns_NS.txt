@@ -1,0 +1,13 @@
+﻿
+Name                           Type   TTL   Section    NameHost                                                        
+----                           ----   ---   -------    --------                                                        
+mit.edu                        NS     1800  Answer     usw2.akam.net                                                   
+mit.edu                        NS     1800  Answer     eur5.akam.net                                                   
+mit.edu                        NS     1800  Answer     use5.akam.net                                                   
+mit.edu                        NS     1800  Answer     ns1-37.akam.net                                                 
+mit.edu                        NS     1800  Answer     ns1-173.akam.net                                                
+mit.edu                        NS     1800  Answer     asia1.akam.net                                                  
+mit.edu                        NS     1800  Answer     use2.akam.net                                                   
+mit.edu                        NS     1800  Answer     asia2.akam.net                                                  
+
+

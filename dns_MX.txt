@@ -1,0 +1,6 @@
+﻿
+Name                                     Type   TTL   Section    NameExchange                              Preference  
+----                                     ----   ---   -------    ------------                              ----------  
+mit.edu                                  MX     120   Answer     mit-edu.mail.protection.outlook.com       100         
+
+

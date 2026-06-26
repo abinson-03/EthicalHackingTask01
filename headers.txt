@@ -1,0 +1,16 @@
+﻿
+Key                       Value                                                                                        
+---                       -----                                                                                        
+Connection                keep-alive                                                                                   
+Content-Security-Policy   frame-ancestors 'self' https://web.mit.edu https://www.mit.edu http://web.mit.edu http://w...
+X-Frame-Options           SAMEORIGIN                                                                                   
+Strict-Transport-Security max-age=600                                                                                  
+Akamai-GRN                0.9cfed417.1782455940.18d88bea                                                               
+Content-Type              text/html                                                                                    
+Date                      Fri, 26 Jun 2026 06:39:01 GMT                                                                
+ETag                      "baf6-65520278b02c0"                                                                         
+Last-Modified             Fri, 26 Jun 2026 04:00:51 GMT                                                                
+Server                    Apache                                                                                       
+
+
+

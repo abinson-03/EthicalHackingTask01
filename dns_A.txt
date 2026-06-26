@@ -1,0 +1,6 @@
+﻿
+Name                                           Type   TTL   Section    IPAddress                                
+----                                           ----   ---   -------    ---------                                
+mit.edu                                        A      20    Answer     23.15.150.186                            
+
+
